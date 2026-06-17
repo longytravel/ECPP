@@ -1,0 +1,7 @@
+# Do not deploy these to the public site
+_launch-video/
+CLAUDE.md
+.git
+node_modules
+.playwright-mcp
+*.log

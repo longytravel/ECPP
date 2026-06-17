@@ -1,0 +1,20 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Vercel
+.vercel
+
+# Agent/local config — not part of the app
+CLAUDE.md
+
+# Marketing assets authored separately — kept out of the public repo & deploy.
+# Remove this line if you want them published.
+_launch-video/
+
+# Local test artifacts
+.playwright-mcp/
+*.log

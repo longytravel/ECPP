@@ -18,3 +18,5 @@ _launch-video/
 # Local test artifacts
 .playwright-mcp/
 *.log
+
+.vercel
